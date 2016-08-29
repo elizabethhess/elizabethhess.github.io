@@ -32,6 +32,23 @@ footer {
   color: #333;
 }
 
+.modal-content iframe {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.modal-content botton.close {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  font-size: 28px;
+  width: 30px;
+  opacity: 1;
+  border-radius: 24px;
+  -webkit-border-radius: 24px;
+  -moz-border-radius: 24px;
+}
+
 .jumbotron {
   color: white; 
   text-align: center;
